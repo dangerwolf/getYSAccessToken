@@ -8,7 +8,7 @@
 
 # 萤石云
 
-使用萤石云SDK过正中，需要根据管理员的appKey和secret获取accessToken。
+使用萤石云SDK过程中，需要根据管理员的appKey和secret获取accessToken。
 
 具体请参看网页：https://open.ys7.com/doc/book/index/user.html
 
